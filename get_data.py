@@ -1,19 +1,18 @@
 # this is a page that help me to compose data to csv
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+import credentials
 
-CLIENT_ID = "4df0ee02b3f14720a50a274c022765eb"
-CLIENT_SECRET = "7d3cc0c306c643b1a5bfae311c11c371" 
-REDIRECT_URI ="http://127.0.0.1:8080"
-SCOPE= "user-library-read"
+
+
 
 # create the user auth (TODO: set client_id,client_secret.. as the input)
 # return the object sp which can use to access all the API function
 def create_user_auth():
-    sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=CLIENT_ID,
-                                               client_secret= CLIENT_SECRET,
-                                               redirect_uri=REDIRECT_URI,
-                                               scope=SCOPE))
+    sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=credentials.CLIENT_ID,
+                                               client_secret= credentials.CLIENT_SECRET,
+                                               redirect_uri=credentials.REDIRECT_URI,
+                                               scope=credentials.SCOPE))
     return sp
 
 
