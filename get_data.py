@@ -2,9 +2,7 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import credentials
-
-
-
+import csv
 
 # create the user auth (TODO: set client_id,client_secret.. as the input)
 # return the object sp which can use to access all the API function
@@ -28,7 +26,7 @@ def get_user_saved_songs(sp):
             track = item['track']
             # print(item['track']['id'])
             # print(idx, track['artists'][0]['name'], " – ", track['name'])
-            all_results.append({track['id'] : track['name']})
+            all_results.append({'track_name' : track['name'] , 'track_id' : track['id']})
     return all_results
 
 #function : get user's playlist 
@@ -67,19 +65,21 @@ def get_songs_from_playlist(sp,playlist_id):
     result = {'all_songs': all_songs , 'total': response['total']}
     return result
 
-#function : followed playlist
-
-
-#function : pack the song info into a csv file 
-
-
+#packing all the song in "Liked Song" into a csv file that has the song name, id ( artist can be added when doing analysis)
 def main():
     sp = create_user_auth()
     list_song = get_user_saved_songs(sp)
     list_playlist = get_user_public_playist(sp)
     playlist_id = list(list_playlist[2].keys())
     songs_in_playlist = get_songs_from_playlist(sp,playlist_id[0])
-    print(songs_in_playlist)
+
+    with open('fav_song_list.csv', mode='w') as csv_file:
+        fieldnames = ['song_name', 'song_id']
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+
+        writer.writeheader()
+        for song in list_song:
+            writer.writerow({'song_name': song['track_name'], 'song_id': song['track_id']})
 
 
 if __name__ == "__main__":
