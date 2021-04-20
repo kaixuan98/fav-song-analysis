@@ -26,7 +26,9 @@ def get_user_saved_songs(sp):
             track = item['track']
             # print(item['track']['id'])
             # print(idx, track['artists'][0]['name'], " – ", track['name'])
-            all_results.append({'track_name' : track['name'] , 'track_id' : track['id']})
+            all_results.append({'track_name' : track['name'] , 'track_id' : track['id'],
+            'artist_name': track['artists'][0]['name'], 'artist_id': track['artists'][0]['id'],
+            'popularity':track['popularity']})
     return all_results
 
 #function : get user's playlist 
@@ -65,6 +67,8 @@ def get_songs_from_playlist(sp,playlist_id):
     result = {'all_songs': all_songs , 'total': response['total']}
     return result
 
+    
+
 #packing all the song in "Liked Song" into a csv file that has the song name, id ( artist can be added when doing analysis)
 def main():
     sp = create_user_auth()
@@ -74,12 +78,13 @@ def main():
     songs_in_playlist = get_songs_from_playlist(sp,playlist_id[0])
 
     with open('fav_song_list.csv', mode='w') as csv_file:
-        fieldnames = ['song_name', 'song_id']
+        fieldnames = ['song_name', 'song_id', 'artist_name' , 'artist_id', 'popularity']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
         writer.writeheader()
         for song in list_song:
-            writer.writerow({'song_name': song['track_name'], 'song_id': song['track_id']})
+            writer.writerow({'song_name': song['track_name'], 'song_id': song['track_id'],
+            'artist_name':song['artist_name'],'artist_id':song['artist_id'],'popularity': song['popularity']})
 
 
 if __name__ == "__main__":
