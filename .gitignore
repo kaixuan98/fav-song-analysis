@@ -2,4 +2,6 @@ credentials.py
 fav_song_list.csv
 **/__pycache__
 **/.vscode
-**/.cache
+.cache
+**/pictures
+**/final_blog_post

@@ -1,0 +1,101 @@
+song_id,song_name,artists,artists_id,popularity
+43PGPuHIlVOc04jrZVh9L6,RAPSTAR,"[{'artist_name': 'Polo G', 'artist_id': '6AgTAQt8XS6jRWi4sX7w49'}]",,94
+3BZEcbdtXQSo7OrvKRJ6mb,MONTERO (Call Me By Your Name),"[{'artist_name': 'Lil Nas X', 'artist_id': '7jVv8c5Fj3E9VhNjxT4snq'}]",,94
+7MAibcTli4IisCtbHKrGMh,Leave The Door Open,"[{'artist_name': 'Bruno Mars', 'artist_id': '0du5cEVh5yTK9QJze8zA0C'}, {'artist_name': 'Anderson .Paak', 'artist_id': '3jK9MiCrA42lLAdMGUZpwa'}, {'artist_name': 'Silk Sonic', 'artist_id': '6PvvGcCY2XtUcSRld1Wilr'}]",,96
+4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),"[{'artist_name': 'Justin Bieber', 'artist_id': '1uNFoZAHBGtllmzznpCI3s'}, {'artist_name': 'Daniel Caesar', 'artist_id': '20wkVLutqVOYrc0kxFs7rA'}, {'artist_name': 'Giveon', 'artist_id': '4fxd5Ee7UefO4CUXgwJ7IP'}]",,100
+5QO79kh1waicV47BqGRL3g,Save Your Tears,"[{'artist_name': 'The Weeknd', 'artist_id': '1Xyo4u8uXC1ZmMpatF05PJ'}]",,96
+463CkQjx2Zk1yXoBuierM9,Levitating (feat. DaBaby),"[{'artist_name': 'Dua Lipa', 'artist_id': '6M2wZ9GZgrQXHCFfjv46we'}, {'artist_name': 'DaBaby', 'artist_id': '4r63FhuTkUYltbVAg5TQnk'}]",,90
+748mdHapucXQri7IAO8yFK,Kiss Me More (feat. SZA),"[{'artist_name': 'Doja Cat', 'artist_id': '5cj0lLjcoR7YOSnhnX0Po5'}, {'artist_name': 'SZA', 'artist_id': '7tYKF4w9nC0nq9CsPZTHyP'}]",,92
+1XXimziG1uhM0eDNCZCrUl,Up,"[{'artist_name': 'Cardi B', 'artist_id': '4kYSro6naA4h99UJvo89HB'}]",,91
+7lPN2DXiMsVn7XUKtOW1CS,drivers license,"[{'artist_name': 'Olivia Rodrigo', 'artist_id': '1McMsnEElThX1knmY4oliG'}]",,97
+3Ofmpyhv5UAQ70mENzB277,Astronaut In The Ocean,"[{'artist_name': 'Masked Wolf', 'artist_id': '1uU7g3DNSbsu0QjSEqZtEd'}]",,97
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,"[{'artist_name': 'The Weeknd', 'artist_id': '1Xyo4u8uXC1ZmMpatF05PJ'}]",,95
+3wCx8pwK7J1LVe13dFXjPm,Beat Box,"[{'artist_name': 'SpotemGottem', 'artist_id': '3Y2MLcrD3ZQXRXmtn4fZQx'}]",,70
+5Kskr9LcNYa0tpt5f0ZEJx,Calling My Phone,"[{'artist_name': 'Lil Tjay', 'artist_id': '6jGMq4yGs7aQzuGsMgVgZR'}, {'artist_name': '6LACK', 'artist_id': '4IVAbR2w4JJNJDDRFP3E83'}]",,88
+1tkg4EHVoqnhR6iFEXb60y,What You Know Bout Love,"[{'artist_name': 'Pop Smoke', 'artist_id': '0eDvMgVFoNV3TpwtrVCoTj'}]",,89
+61KpQadow081I2AsbeLcsb,deja vu,"[{'artist_name': 'Olivia Rodrigo', 'artist_id': '1McMsnEElThX1knmY4oliG'}]",,92
+1BKT2I9x4RGKaKqW4up34s,Ruff Ryders' Anthem,"[{'artist_name': 'DMX', 'artist_id': '1HwM5zlC5qNWhJtM00yXzG'}]",,78
+2etHQJxIbV0soyPhelVs9Y,Best Friend (feat. Doja Cat),"[{'artist_name': 'Saweetie', 'artist_id': '6cK3NBO6uP7hh0oyuVELFl'}, {'artist_name': 'Doja Cat', 'artist_id': '5cj0lLjcoR7YOSnhnX0Po5'}]",,90
+3tjFYV6RSFtuktYl3ZtYcq,Mood (feat. iann dior),"[{'artist_name': '24kGoldn', 'artist_id': '6fWVd57NKTalqvmjRd2t8Z'}, {'artist_name': 'iann dior', 'artist_id': '6ASri4ePR7RlsvIQgWPJpS'}]",,88
+3hLuHKzG1cmlRpq53ZVWd8,The Good Ones,"[{'artist_name': 'Gabby Barrett', 'artist_id': '6Iz3eq2aQGFf7TbGT2iahL'}]",,78
+7JuHVG3qQKQKxC4doneXVW,Back In Blood (feat. Lil Durk),"[{'artist_name': 'Pooh Shiesty', 'artist_id': '5F1aAS1duwlzExnPs3l2Xe'}, {'artist_name': 'Lil Durk', 'artist_id': '3hcs9uc56yIGFCSy9leWe7'}]",,83
+6Im9k8u9iIzKMrmV7BWtlF,34+35,"[{'artist_name': 'Ariana Grande', 'artist_id': '66CXWjxzNUsdJxJ2JdwvnR'}]",,89
+1IIKrJVP1C9N7iPtG6eOsK,Go Crazy,"[{'artist_name': 'Chris Brown', 'artist_id': '7bXgB6jMjp9ATFy66eO08Z'}, {'artist_name': 'Young Thug', 'artist_id': '50co4Is1HCEo8bhOyUWKpn'}]",,83
+45bE4HXI0AwGZXfZtMp8JR,you broke me first,"[{'artist_name': 'Tate McRae', 'artist_id': '45dkTj5sMRSjrmBSBeiHym'}]",,90
+54bFM56PmE4YLRnqpW6Tha,Therefore I Am,"[{'artist_name': 'Billie Eilish', 'artist_id': '6qqNVTkY8uBg9cP3Jd7DAH'}]",,89
+3aQem4jVGdhtg116TmJnHz,What’s Next,"[{'artist_name': 'Drake', 'artist_id': '3TVXtAsR1Inumwj472S9r4'}]",,89
+3FAJ6O0NOHQV8Mc5Ri6ENp,Heartbreak Anniversary,"[{'artist_name': 'Giveon', 'artist_id': '4fxd5Ee7UefO4CUXgwJ7IP'}]",,94
+6fRxMU4LWwyaSSowV441IU,Beautiful Mistakes (feat. Megan Thee Stallion),"[{'artist_name': 'Maroon 5', 'artist_id': '04gDigrS5kc9YWfZHwBETP'}, {'artist_name': 'Megan Thee Stallion', 'artist_id': '181bsRPaVXVlUKXrxwZfHK'}]",,90
+7kDUspsoYfLkWnZR7qwHZl,my ex's best friend (with blackbear),"[{'artist_name': 'Machine Gun Kelly', 'artist_id': '6TIYQ3jFPwQSRmorSezPxX'}, {'artist_name': 'blackbear', 'artist_id': '2cFrymmkijnjDg9SS92EPM'}]",,85
+3wJ1OyP3Fugmi8t41e1zQ6,You're Mines Still,"[{'artist_name': 'Yung Bleu', 'artist_id': '3KNIG74xSTc3dj0TRy7pGX'}, {'artist_name': 'Drake', 'artist_id': '3TVXtAsR1Inumwj472S9r4'}]",,66
+7l2tmgUhV7Y2aJHjiszifg,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}]",,82
+35mvY5S1H3J2QZyna3TFe0,positions,"[{'artist_name': 'Ariana Grande', 'artist_id': '66CXWjxzNUsdJxJ2JdwvnR'}]",,91
+27OeeYzk6klgBh83TSvGMA,WITHOUT YOU,"[{'artist_name': 'The Kid LAROI', 'artist_id': '2tIP7SsRs7vjIcLrU85W8J'}]",,93
+4Iedi94TIaB2GGb1nMB68v,On Me,"[{'artist_name': 'Lil Baby', 'artist_id': '5f7VJjfbwm532GiveGC0ZK'}]",,84
+47EiUVwUp4C9fGccaPuUCS,DÁKITI,"[{'artist_name': 'Bad Bunny', 'artist_id': '4q3ewBCX7sLwd24euuV69X'}, {'artist_name': 'Jhay Cortez', 'artist_id': '0EFisYRi20PTADoJrifHrz'}]",,91
+5hChuUMe5iHfjkXgzj1D4b,Track Star,"[{'artist_name': 'Mooski', 'artist_id': '4NqH3V7GS0Igs1VyGMXEi8'}]",,81
+0PvFJmanyNQMseIFrU708S,For The Night (feat. Lil Baby & DaBaby),"[{'artist_name': 'Pop Smoke', 'artist_id': '0eDvMgVFoNV3TpwtrVCoTj'}, {'artist_name': 'Lil Baby', 'artist_id': '5f7VJjfbwm532GiveGC0ZK'}, {'artist_name': 'DaBaby', 'artist_id': '4r63FhuTkUYltbVAg5TQnk'}]",,88
+5A4WcRuy0FFEAC5pAK43oa,No More Parties - Remix,"[{'artist_name': 'Coi Leray', 'artist_id': '6AMd49uBDJfhf30Ak2QR5s'}, {'artist_name': 'Lil Durk', 'artist_id': '3hcs9uc56yIGFCSy9leWe7'}]",,76
+0JGQASbzeUjibbQp2Eu0Yv,Tombstone,"[{'artist_name': 'Rod Wave', 'artist_id': '45TgXXqMDdF8BkjA83OM7z'}]",,72
+3YJJjQPAbDT7mGpX3WtQ9A,Good Days,"[{'artist_name': 'SZA', 'artist_id': '7tYKF4w9nC0nq9CsPZTHyP'}]",,91
+0LWkaEyQRkF0XAms8Bg1fC,Party Up,"[{'artist_name': 'DMX', 'artist_id': '1HwM5zlC5qNWhJtM00yXzG'}]",,77
+3USxtqRwSYz57Ewm6wWRMp,Heat Waves,"[{'artist_name': 'Glass Animals', 'artist_id': '4yvcSjfu4PC0CYQyLy4wSq'}]",,84
+3TNSVsiFngfe68UJpMq1oS,Starting Over,"[{'artist_name': 'Chris Stapleton', 'artist_id': '4YLtscXsxbVgi031ovDDdh'}]",,76
+7vF3xkCMvZjAe2nTWY0uQZ,Made For You,"[{'artist_name': 'Jake Owen', 'artist_id': '1n2pb9Tsfe4SwAjmUac6YT'}]",,74
+6IBcOGPsniK3Pso1wHIhew,Forever After All,"[{'artist_name': 'Luke Combs', 'artist_id': '718COspgdWOnwOFpJHRZHS'}]",,81
+1diS6nkxMQc3wwC4G1j0bh,We're Good,"[{'artist_name': 'Dua Lipa', 'artist_id': '6M2wZ9GZgrQXHCFfjv46we'}]",,89
+1zzxoZVylsna2BQB65Ppcb,X Gon' Give It To Ya,"[{'artist_name': 'DMX', 'artist_id': '1HwM5zlC5qNWhJtM00yXzG'}]",,82
+65OVbaJR5O1RmwOQx0875b,Wants and Needs (feat. Lil Baby),"[{'artist_name': 'Drake', 'artist_id': '3TVXtAsR1Inumwj472S9r4'}, {'artist_name': 'Lil Baby', 'artist_id': '5f7VJjfbwm532GiveGC0ZK'}]",,88
+60ynsPSSKe6O3sfwRnIBRf,Streets,"[{'artist_name': 'Doja Cat', 'artist_id': '5cj0lLjcoR7YOSnhnX0Po5'}]",,93
+4aarlAfLKVCTxUDNgbwhjH,Cry Baby (feat. DaBaby),"[{'artist_name': 'Megan Thee Stallion', 'artist_id': '181bsRPaVXVlUKXrxwZfHK'}, {'artist_name': 'DaBaby', 'artist_id': '4r63FhuTkUYltbVAg5TQnk'}]",,82
+5uEYRdEIh9Bo4fpjDd4Na9,Goosebumps - Remix,"[{'artist_name': 'Travis Scott', 'artist_id': '0Y5tJX1MQlPlqiwlOH1tJY'}, {'artist_name': 'HVME', 'artist_id': '2o08sCWF5yyo2G4DCiT7T9'}]",,91
+2bo0HCDcZj8BYjoht9zYgk,Time Today,"[{'artist_name': 'Moneybagg Yo', 'artist_id': '3tJoFztHeIJkJWMrx0td2f'}]",,81
+6YvqWjhGD8mB5QXcbcUKtx,Love Story (Taylor’s Version),"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}]",,80
+45kgqMRkC29qjBlzeaJcad,Street Runner,"[{'artist_name': 'Rod Wave', 'artist_id': '45TgXXqMDdF8BkjA83OM7z'}]",,78
+65tP0mThMEaHbVIzdYHZYw,What’s Your Country Song,"[{'artist_name': 'Thomas Rhett', 'artist_id': '6x2LnllRG5uGarZMsD4iO8'}]",,74
+7HsjuVBM93Z2RoxjpWLgTT,Richer (feat. Polo G),"[{'artist_name': 'Rod Wave', 'artist_id': '45TgXXqMDdF8BkjA83OM7z'}, {'artist_name': 'Polo G', 'artist_id': '6AgTAQt8XS6jRWi4sX7w49'}]",,81
+6tDDoYIxWvMLTdKpjFkc1B,telepatía,"[{'artist_name': 'Kali Uchis', 'artist_id': '1U1el3k54VvEUzo3ybLPlM'}]",,96
+5PAvFGse5jjDH9ke8Mae7D,Just the Way,"[{'artist_name': 'Parmalee', 'artist_id': '4TshyQDihSYXSWqvclXl3I'}, {'artist_name': 'Blanco Brown', 'artist_id': '3yzRiNMZdTsSUgplcyYZ4i'}]",,73
+1kBx9VGumfuvlfqdlAGorE,Hell Of A View,"[{'artist_name': 'Eric Church', 'artist_id': '2IvkS5MXK0vPGnwyJsrEyV'}]",,77
+3hboOw4dS0aXGuP0fyyvbC,Somebody Like That,"[{'artist_name': 'Tenille Arts', 'artist_id': '0gSAxSvAApQc71cTpoXDFu'}]",,73
+0YfRAYTNTNszGg8VARrSIH,Long Live,"[{'artist_name': 'Florida Georgia Line', 'artist_id': '3b8QkneNDz4JHKKKlLgYZg'}]",,72
+6QpZSfLid1YZ6c01BvB5jH,Down To One,"[{'artist_name': 'Luke Bryan', 'artist_id': '0BvkDsjIUla7X0k6CSWh1I'}]",,73
+0lx2cLdOt3piJbcaXIV74f,willow,"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}]",,83
+1nahzW3kfMuwReTka28tH5,Hold On,"[{'artist_name': 'Justin Bieber', 'artist_id': '1uNFoZAHBGtllmzznpCI3s'}]",,87
+6cQ08IpBxxfGcSKxqE3NmB,Headshot (feat. Polo G & Fivio Foreign),"[{'artist_name': 'Lil Tjay', 'artist_id': '6jGMq4yGs7aQzuGsMgVgZR'}, {'artist_name': 'Polo G', 'artist_id': '6AgTAQt8XS6jRWi4sX7w49'}, {'artist_name': 'Fivio Foreign', 'artist_id': '14CHVeJGrR5xgUGQFV5BVM'}]",,78
+1msEuwSBneBKpVCZQcFTsU,Forever & Always (Taylor’s Version),"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}]",,78
+3ySLzrN7950dpf1ncttONO,Lady,"[{'artist_name': 'Brett Young', 'artist_id': '0fiWOxhsBsQQvFDtxUQWo0'}]",,74
+4sf2L157iEgAR7yrCNLgSq,Breaking Up Was Easy In The 90's,"[{'artist_name': 'Sam Hunt', 'artist_id': '2kucQ9jQwuD8jWdtR9Ef38'}]",,71
+0KS2h61pHQ4WmOwruD7uxD,Damage,"[{'artist_name': 'H.E.R.', 'artist_id': '3Y7RZ31TRPVadSFVy1o8os'}]",,74
+51FVpJr3WL7vvdfCa7j2jr,Momma’s House,"[{'artist_name': 'Dustin Lynch', 'artist_id': '1dID9zgn0OV0Y8ud7Mh2tS'}]",,73
+0lNotCAaSDP4itCAtEE7My,Anyone,"[{'artist_name': 'Justin Bieber', 'artist_id': '1uNFoZAHBGtllmzznpCI3s'}]",,69
+77sMIMlNaSURUAXq5coCxE,Fearless (Taylor’s Version),"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}]",,81
+5pcjystBtalYeqaiXCcgEY,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}, {'artist_name': 'Maren Morris', 'artist_id': '6WY7D3jk8zTrHtmkqqo5GI'}]",,82
+1KixkQVDUHggZMU9dUobgm,My Head & My Heart,"[{'artist_name': 'Ava Max', 'artist_id': '4npEfmQ6YuiwW1GpUmaq3F'}]",,89
+2XIc1pqjXV3Cr2BQUGNBck,LA NOCHE DE ANOCHE,"[{'artist_name': 'Bad Bunny', 'artist_id': '4q3ewBCX7sLwd24euuV69X'}, {'artist_name': 'ROSALÍA', 'artist_id': '7ltDVBr6mKbRvohxheJ9h1'}]",,92
+1qrpoAMXodY6895hGKoUpA,You Belong With Me (Taylor’s Version),"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}]",,81
+53bZYxVbCYm6w1Gx8U64bz,Settling Down,"[{'artist_name': 'Miranda Lambert', 'artist_id': '66lH4jAE7pqPlOlzUKbwA0'}]",,72
+53tv6ZbyeAwfAUwFaxYbfO,Hellcats & Trackhawks,"[{'artist_name': 'Only The Family', 'artist_id': '3IaKn0ExWTMPqa0mscUYw3'}, {'artist_name': 'Lil Durk', 'artist_id': '3hcs9uc56yIGFCSy9leWe7'}]",,75
+472vIK1ldetTxRxG3ovaiY,Glad You Exist,"[{'artist_name': 'Dan + Shay', 'artist_id': '7z5WFjZAIYejWy0NI5lv4T'}]",,81
+1dg3qy5DjoJodawfOCgrTP,Run It Up (feat. Offset & Moneybagg Yo),"[{'artist_name': 'Lil Tjay', 'artist_id': '6jGMq4yGs7aQzuGsMgVgZR'}, {'artist_name': 'Offset', 'artist_id': '4DdkRBBYG6Yk9Ka8tdJ9BW'}, {'artist_name': 'Moneybagg Yo', 'artist_id': '3tJoFztHeIJkJWMrx0td2f'}]",,83
+6BheQYyYJLJvfU0AlIGnhu,Almost Maybes,"[{'artist_name': 'Jordan Davis', 'artist_id': '77kULmXAQ6vWer7IIHdGzI'}]",,43
+2HYvkdq6lpFXkVz9Tfqi8r,Big Gangsta,"[{'artist_name': 'Kevin Gates', 'artist_id': '1gPhS1zisyXr5dHTYZyiMe'}]",,81
+26UxwWl9xCb83OynXELJcL,Masterpiece,"[{'artist_name': 'DaBaby', 'artist_id': '4r63FhuTkUYltbVAg5TQnk'}]",,80
+6f3Slt0GbA2bPZlz0aIFXN,The Business,"[{'artist_name': 'Tiësto', 'artist_id': '2o5jDhtHVPhrJdv3cEQ99Z'}]",,94
+4KIkADzoVm3A10E9qyjsQ5,4 Da Gang (with Roddy Ricch),"[{'artist_name': '42 Dugg', 'artist_id': '45gHcnDnMC15sgx3VL7ROG'}, {'artist_name': 'Roddy Ricch', 'artist_id': '757aE44tKEUQEqRuT6GnEB'}]",,78
+33HO2V42Tc6xE0SbCg6vBj,Quicksand,"[{'artist_name': 'Morray', 'artist_id': '44vREmJC0OlVZjZaGLqVEd'}]",,73
+4k2cAUUPp3VZdK4gwG9pxy,Pick Up Your Feelings,"[{'artist_name': 'Jazmine Sullivan', 'artist_id': '7gSjFKpVmDgC2MMsnN8CYq'}]",,58
+2z0IupRlVRlDN5r2IVqHyN,Shy Away,"[{'artist_name': 'Twenty One Pilots', 'artist_id': '3YQKmKGau1PzlVlkL1iodx'}]",,84
+2nqio0SfWg6gh2eCtfuMa5,Fifteen (Taylor’s Version),"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}]",,79
+5byWPNSh2hi0ULmDxBgLyV,BIG PURR (Prrdd) (feat. Pooh Shiesty),"[{'artist_name': 'Coi Leray', 'artist_id': '6AMd49uBDJfhf30Ak2QR5s'}, {'artist_name': 'Pooh Shiesty', 'artist_id': '5F1aAS1duwlzExnPs3l2Xe'}]",,76
+4iXDn9pu5Q9sxv45vE8Lak,Famous Friends,"[{'artist_name': 'Chris Young', 'artist_id': '4BYxqVkZyFjtik7crYLg5Q'}, {'artist_name': 'Kane Brown', 'artist_id': '3oSJ7TBVCWMDMiYjXNiCKE'}]",,74
+5TWAIHYaOnYg4txfmCgon5,Nobody,"[{'artist_name': 'Dylan Scott', 'artist_id': '78YqeIji3mgAS2K1Maca6x'}]",,70
+0NmuYnjETG3u3qx0OmEJev,Lil Bit,"[{'artist_name': 'Nelly', 'artist_id': '2gBjLmx6zQnFGQJCAQpRgw'}, {'artist_name': 'Florida Georgia Line', 'artist_id': '3b8QkneNDz4JHKKKlLgYZg'}]",,75
+0BI0hfbmqybnd3TezrDME3,Met Him Last Night (feat. Ariana Grande),"[{'artist_name': 'Demi Lovato', 'artist_id': '6S2OmqARrzebs0tKUEyXyp'}, {'artist_name': 'Ariana Grande', 'artist_id': '66CXWjxzNUsdJxJ2JdwvnR'}]",,84
+22bPsP2jCgbLUvh82U0Z3M,The Way I Loved You (Taylor’s Version),"[{'artist_name': 'Taylor Swift', 'artist_id': '06HL4z0CvFAxyc27GXpf02'}]",,80
+50DMJJpAeQv4fIpxZvQz2e,Monsters (feat. Demi Lovato and blackbear),"[{'artist_name': 'All Time Low', 'artist_id': '46gyXjRIvN1NL1eCB8GBxo'}, {'artist_name': 'Demi Lovato', 'artist_id': '6S2OmqARrzebs0tKUEyXyp'}, {'artist_name': 'blackbear', 'artist_id': '2cFrymmkijnjDg9SS92EPM'}]",,74
+5NUXE8W12lWcUXgJRCjeEw,One Too Many,"[{'artist_name': 'Keith Urban', 'artist_id': '0u2FHSq3ln94y5Q57xazwf'}, {'artist_name': 'P!nk', 'artist_id': '1KCSPY1glIKqW2TotWuXOR'}]",,77
+3cBsEDNhFI9E82vPj3kvi3,Wasted On You,"[{'artist_name': 'Morgan Wallen', 'artist_id': '4oUHIQIBe0LHzYfvXNW4QM'}]",,80
+0XqQxKtAdYbOC8OVIjWLZD,Dancing With The Devil,"[{'artist_name': 'Demi Lovato', 'artist_id': '6S2OmqARrzebs0tKUEyXyp'}]",,71
+7IhfjcaXuXCq20ZiAA7igK,Gone,"[{'artist_name': 'Dierks Bentley', 'artist_id': '7x8nK0m0cP2ksQf0mjWdPS'}]",,75
+7eX3um6NpOQKWJMGCi97XD,Real As It Gets (feat. EST Gee),"[{'artist_name': 'Lil Baby', 'artist_id': '5f7VJjfbwm532GiveGC0ZK'}, {'artist_name': 'EST Gee', 'artist_id': '4FlG0V0jhLO4qGpayFOphj'}]",,81
